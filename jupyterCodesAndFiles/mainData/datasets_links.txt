@@ -1,5 +1,5 @@
 #Bases de dados utilizadas (completas)
+#Necessário fazer o download, pois os arquivos são muito grandes para serem visualizados
 
-https://drive.google.com/open?id=1RkLZaHFZg8ev17XzpuGwIVKFTkdXmAl_
-
+https://drive.google.com/file/d/1RkLZaHFZg8ev17XzpuGwIVKFTkdXmAl_/view
 https://drive.google.com/file/d/1xFqG1DKiqAhDro8A50uCRhNmec5Pt0-0/view?usp=sharing
